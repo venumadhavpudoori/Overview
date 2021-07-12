@@ -1,5 +1,6 @@
-Venumadhav Pudoori                                                                                                     madhav.job18@gmail.com
-                                                                                                                               +91 9533477530
+Venumadhav Pudoori                                                                                                     
+madhav.job18@gmail.com
++91 9533477530
 
 
 
@@ -34,9 +35,12 @@ WORK  EXPERIENCE
 JDMR Ischool, Front-end  Developer, Virtual.                                                Jan'20 - Present
 Project Title:  Coaching  Website.
 Programming Languages: HTML5, Java Script, CSS3, Boostrap4. 
+
 Description: 
             We build a Coaching website from scratch, online exam dashboard. 
+            
 Project Highlights: 
+
 •	The site is tested to work across all browsers and devices.
 •	The site built to be search engine friendly.
 •	Adding functionality to the website.
@@ -58,6 +62,7 @@ Programming Languages: HTML5, Java Script, CSS, React Js,AWS amplify.
 
 
 Description: 
+
             We build a website that ask questions about personal information, monthly income and expenses and what person own. Web application guide through some of the obligations customer need to plan for and then give a precise value for the insurance for the coming years.
 Project Highlights: 
 •	Work with developers and designers to create a framework for the web-application. Identifying ways to improve design and development processes. 
@@ -80,8 +85,11 @@ Project Highlights:
 •	Adding Graphical User Interface interaction with Satellite Data Selection Utility tool.
 
 SIDE PROJECTS
+
                   Working privately as web developer, build websites and web applications using HTML, CSS, Javascript, React JS.
-PERSONAL DETAILS 
+                  
+PERSONAL DETAILS
+
 •	Name:                     Pudoori Venu madhav
 •	Father’s Name:       Pudoori Rajaiah
 •	Date of Birth:          April 12, 1991
